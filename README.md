@@ -1,5 +1,6 @@
 # CondimentConquerors TODO list
 
+## For Smitty TODO
 <1> Clean the player Movement Script up as much as possible.
 
 <2> Make Camera Follow and rotate around the player.
